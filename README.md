@@ -1,2 +1,2 @@
 # Learning
-for learning 
+for learning lession 1 only
